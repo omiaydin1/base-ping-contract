@@ -19,3 +19,4 @@ This repository includes a minimal example of:
 - State mutation and read functions
 
 Built and tested using Remix IDE and MetaMask on Base.
+
