@@ -1,3 +1,8 @@
+    /// @notice Increments the counter by 1
+    /// @dev Called via direct wallet interaction
+    function ping() external {
+        counter += 1;
+    }
 /// @title Ping Contract
 /// @notice Minimal smart contract deployed on Base mainnet
 /// @dev Used for onchain interaction and state changes
