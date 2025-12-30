@@ -28,3 +28,9 @@ This repository contains a minimal smart contract example:
 - Used to demonstrate onchain activity and interaction
 
 The contract was deployed and interacted with using Remix IDE and MetaMask.
+
+### PingV2
+
+PingV2 extends the original Ping contract by introducing a reset mechanism,
+allowing the counter state to be cleared when needed.
+
