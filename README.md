@@ -20,3 +20,11 @@ This repository includes a minimal example of:
 
 Built and tested using Remix IDE and MetaMask on Base.
 
+## Base Deployment
+
+This repository contains a minimal smart contract example:
+- Deployed on Base mainnet
+- Simple state mutation via `ping()` function
+- Used to demonstrate onchain activity and interaction
+
+The contract was deployed and interacted with using Remix IDE and MetaMask.
