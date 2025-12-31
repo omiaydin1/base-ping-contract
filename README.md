@@ -31,6 +31,12 @@ The contract was deployed and interacted with using Remix IDE and MetaMask.
 
 ### PingV2
 
+## Base Network Note
+
+This repository can be experimented with on Base mainnet
+for educational and testing purposes.
+
+
 PingV2 extends the original Ping contract by introducing a reset mechanism,
 allowing the counter state to be cleared when needed.
 
